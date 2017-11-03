@@ -20,7 +20,7 @@ This repo includes the following resources:
 
 ## Application Files
 * Dockerfile
-  * Docker build file for applicaiton container
+  * Docker build file for application container
 * requirements.txt
   * pip installation requirements
 * demoapp.py
